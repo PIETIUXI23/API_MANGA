@@ -1,0 +1,35 @@
+# Visual Studio / Rider / IntelliJ
+.vscode/
+.idea/
+
+# Build and NuGet
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.zip
+*.nupkg
+*.paket.restore.log
+project.lock.json
+*.ilk
+*.msi
+
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# .NET Core
+*.ide
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+project.lock.json
+.DS_Store
+
+# Test Results
+TestResults/
